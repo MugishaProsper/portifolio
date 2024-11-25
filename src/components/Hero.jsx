@@ -18,7 +18,7 @@ const Hero = () => {
             Hi I'm  <span className="text-gradient">Mugisha Prosper</span>{" "}
           </h1>
         </div>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>I'm a software developer specialist in <span className="text-gradient font-semibold">Data Science</span>, <span className="text-gradient font-semibold">Web Development</span> as well as <span className="text-gradient font-semibold">Penetration Testing</span> aiming at providing <span className="text-gradient">efficient</span> and lasting solutions to our modern world's digital problems.</p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>I'm a software developer specialist in <span className="text-gradient font-semibold">Data Science</span>, <span className="text-gradient font-semibold">Backend Development</span> as well as <span className="text-gradient font-semibold">Penetration Testing</span> aiming at providing <span className="text-gradient">efficient</span> and lasting solutions to our modern world's digital problems.</p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
